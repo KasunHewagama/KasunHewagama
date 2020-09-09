@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/AWS-02569B?style=flat-square&logo=amazon-web-services)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 <!--![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
