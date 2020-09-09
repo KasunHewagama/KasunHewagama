@@ -1,4 +1,4 @@
-### Hi there, I'm Kasun 👋
+### Hi there, I'm Kasun Hewagama 👋
 
 <!--
 **KasunHewagama/KasunHewagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/AWS-02569B?style=flat-square&logo=amazon-web-services)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-1572B6?style=flat-square&logo=Amazon-Web-Service)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <!--![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 <!--![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 <!--![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) -->
 <!--![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel) -->
 <!--![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress) -->
-<!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
