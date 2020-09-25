@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-1572B6?style=flat-square&logo=Amazon-Web-Service)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-<!--![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 <!--![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 <!--![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) -->
