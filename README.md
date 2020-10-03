@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://KasunHewagama.com)](https://KasunHewagama.com) -->
 
 ![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=KasunHewagama&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunHewagama&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunHewagama&layout=compact&theme=dark)
 
 ### Languages and Tools : <br/>  
 
