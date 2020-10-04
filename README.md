@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kasun.gayantha.39)](https://www.facebook.com/kasun.gayantha.39)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasun-hewagama-331332173/)](https://www.linkedin.com/in/kasun-hewagama-331332173/)
 ![](https://visitor-badge.glitch.me/badge?page_id=KasunHewagama.KasunHewagama)
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 <!--
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/KasunHewagama)](https://stackoverflow.com/users/9752928/KasunHewagama)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://KasunHewagama.com)](https://KasunHewagama.com) -->
 
-![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=KasunHewagama&show_icons=true&hide_border=true&theme=light)
+![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=KasunHewagama&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunHewagama&layout=compact&hide_border=true&theme=light)
+
 
 ### Languages and Tools : <br/>  
 
