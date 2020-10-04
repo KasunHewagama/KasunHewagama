@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=KasunHewagama&show_icons=true&hide_border=true&theme=light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunHewagama&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunHewagama&layout=compact&hide_border=true&theme=light)
 
 ### Languages and Tools : <br/>  
 
