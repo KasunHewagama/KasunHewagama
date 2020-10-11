@@ -1,19 +1,6 @@
 ### Hi there, I'm Kasun Hewagama :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**KasunHewagama/KasunHewagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/KSN_HWGM/)](https://twitter.com/KSN_HWGM/)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kasun__hewagama)](https://www.instagram.com/kasun__hewagama)
@@ -24,6 +11,26 @@ Here are some ideas to get you started:
 <!--
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9752928/KasunHewagama)](https://stackoverflow.com/users/9752928/KasunHewagama)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://KasunHewagama.com)](https://KasunHewagama.com) -->
+
+
+
+Hi, I'm Kasun Hewagama, a Full Stack Developer 🚀 from Srilanka, currently, I'm a Undergraduate in SLIIT 🙍🏽‍♂️.
+<!-- Freelancer 👨🏽‍💻  Beside's programming, I enjoy eating food and traveling. -->
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
+
+- 🔭 I’m persuading : **Data Science Specialization @ SLIIT**
+- ⚙️ I use daily : `.py`, `.ipynb`, `.pkl`, `.html`, `.css`, `.js`
+- 👯 I’m looking to collaborate on : open source/commercial projects
+- 💅 Ping me about : **Analyze**, **Predict**, **Design**,  **Development**, **Design Thinking**
+- 💬 Ask me about : **Web Development**, **Data Science**, **Machine Learning**
+- 📫 How to reach me : kghewagama1997@gmail.com;
+
+
+
+
 
 ![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=KasunHewagama&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
