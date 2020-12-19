@@ -79,7 +79,7 @@ Hi, I'm Kasun Hewagama, a Full Stack Developer 🚀 from Srilanka, currently, I'
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Firebase](https://img.shields.io/badge/-Firebase-007ACC?style=flat-square&logo=firebase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-430098?style=flat-square&logo=Apache-Kafka)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-EE0031?style=flat-square&logo=Apache-Kafka)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-430098?style=flat-square&logo=tensorflow)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
