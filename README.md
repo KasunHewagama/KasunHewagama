@@ -68,9 +68,9 @@ Hi, I'm Kasun Hewagama, a Full Stack Developer 🚀 from Srilanka, currently, I'
 
 
 ### Skills : <br/>
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
+![PHP](https://img.shields.io/badge/-PHP-370617?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/-Java-E6194B?style=flat-square&logo=java)
 ![Hive](https://img.shields.io/badge/-Hive-430098?style=flat-square&logo=hive)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
