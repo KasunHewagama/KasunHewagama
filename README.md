@@ -87,7 +87,7 @@ Hi, I'm Kasun Hewagama, a Full Stack Developer 🚀 from Srilanka, currently, I'
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![AzureCloud](https://img.shields.io/badge/-Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-1572B6?style=flat-square&logo=amazon-web-services)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-1572B6?style=flat-square&logo=amazon-aws)
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 <!--![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 <!--![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) -->
