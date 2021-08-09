@@ -21,7 +21,7 @@ Hi, I'm Kasun Hewagama, a Full Stack Developer 🚀 from Srilanka, currently, I'
   
 **Talking about Personal Stuffs:**
 
-- 🏢 I'm currently **Trainee BigData Developer** at **Digital Micro Services**
+- 🏢 I'm currently **BigData Developer** at **Digital Micro Services**
 - 🔭 I’m persuading : **Data Science Specialization @ SLIIT**
 - ⚙️ I use daily : `.py`, `.ipynb`, `.pkl`, `.html`, `.css`, `.js`, `.cube`, `.sln`, `.pbix`,  `.R`, `.xml`, `.gz`, `.zip`, `.tar`
 - 👯 I’m looking to collaborate on : open source/commercial projects
