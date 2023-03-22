@@ -27,7 +27,7 @@ Hi, I'm Kasun Hewagama, a Full Stack Developer 🚀 from Srilanka, currently, I'
 - 👯 I’m looking to collaborate on : open source/commercial projects
 - 💅 Ping me about : **Analyze**, **Predict**, **Design**,  **Development**, **Design Thinking**
 - 💬 Ask me about : **Web Development**, **Data Science**, **Machine Learning**
-- 📫 How to reach me : **kghewagama1997@gmail.com**;
+- 📫 How to reach me : **kasun.ghewagama@gmail.com**;
 
 
 
