@@ -14,15 +14,15 @@
 
 
 
-Hi, I'm Kasun Hewagama, a Full Stack Developer 🚀 from Srilanka, currently, I'm a Undergraduate in SLIIT 🙍🏽‍♂️.
+Hi, I'm Kasun Hewagama, a Full Stack Developer 🚀 from Srilanka, currently, I'm a Graduate in SLIIT 🙍🏽‍♂️.
 <!-- Freelancer 👨🏽‍💻  Beside's programming, I enjoy eating food and traveling. -->
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 🏢 I'm currently **Associate Data Engineer** at **Digital Micro Services**
-- 🔭 I’m persuading : **Data Science Specialization @ SLIIT**
+- 🏢 I'm currently **Lead Data Warehouse & BI Engineer** at **DFCC Bank PLC**
+- 🔭 I’m persuaded : **Data Science Specialization @ SLIIT**
 - ⚙️ I use daily : `.py`, `.ipynb`, `.pkl`, `.html`, `.css`, `.js`, `.cube`, `.sln`, `.pbix`,  `.R`, `.xml`, `.gz`, `.zip`, `.tar`
 - 👯 I’m looking to collaborate on : open source/commercial projects
 - 💅 Ping me about : **Analyze**, **Predict**, **Design**,  **Development**, **Design Thinking**
